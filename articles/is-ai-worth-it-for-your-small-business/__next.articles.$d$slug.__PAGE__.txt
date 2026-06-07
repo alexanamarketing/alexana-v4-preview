@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[22016,["/alexana-v4-preview/_next/static/chunks/2jkvc5psiaxd7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/alexana-v4-preview/_next/static/chunks/2jkvc5psiaxd7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1bca,<p>Most small businesses need two or three AI tools, not twenty. The ones worth paying for plug a leak you can name: missed calls, follow-up that never happens, hours lost to repetitive writing. The rest is demo-day magic that falls apart in week two. This guide gives you a four-question test to decide, then the seven uses that pay off for most companies under 50 employees.</p>
+<h2>Is AI actually worth it for a small business?</h2>
+<p>Yes, but only for specific, repetitive, high-volume tasks, and only if someone owns the tool after launch. AI is the most oversold thing in small-business software right now. Every tool you already pay for has bolted the letters onto a feature and raised the price.</p>
+<p>The question that matters is not "should we be using AI?" That question has no answer. The question is "where does my business leak time or leads?" AI is only interesting where it plugs a leak you can name.</p>
+<h2>How do you decide if an AI tool is worth it?</h2>
+<p>Ask four questions. If you have a clear answer to all four, the tool is worth a 30-day trial. If you don't, wait. Waiting costs nothing; a bad rollout costs months and a little of your customers' trust.</p>
+<h3>1. Where do you lose leads or hours today?</h3>
+<p>Be specific. "We miss calls when we're on jobs." "Quotes take me two evenings a week." "Leads go cold because nobody follows up after the second try." If you can name the leak, a tool can be judged against it. If you can't, no tool will fix what you can't point at.</p>
+<h3>2. Is the task repetitive, with rules you could write down?</h3>
+<p>AI is good at the boring middle of your business: the same questions, the same follow-up, the same first draft. It is bad at judgment calls. If you could train a new hire to do the task with a one-page checklist, AI is a candidate. If the task needs your gut, it isn't.</p>
+<h3>3. Is there enough volume to matter?</h3>
+<p>Automating something you do twice a month saves twenty minutes and adds one more thing to maintain. Automating something that happens twenty times a day changes your week. Do the math before the demo does it for you.</p>
+<h3>4. Who owns it after the launch?</h3>
+<p>Every tool drifts. Prompts go stale, integrations break, the thing starts saying something wrong to a customer. Someone has to notice and fix it. If the answer is "nobody," the tool will quietly rot and you'll cancel it in six months having gotten nothing.</p>
+<h2>Which AI tools actually pay off for small businesses?</h2>
+<p>Seven uses earn their keep at the small-business level, roughly in order of impact:</p>
+<ol>
+<li>AI phone answering for missed calls</li>
+<li>Follow-up sequences that adapt to replies</li>
+<li>First drafts of routine writing</li>
+<li>Call and meeting notes that file themselves</li>
+<li>A website chat tool trained on your real information</li>
+<li>Inbox and lead triage</li>
+<li>Plain-English reporting on your numbers</li>
+</ol>
+<h3>1. AI phone answering for missed calls</h3>
+<p>For service businesses, a missed call is usually a lost job, because the caller dials the next company on the list. AI voice tools pick up, take the details, qualify the caller, and log the lead. Full disclosure: we build one of these, Interactive Voicemail, so we're biased. The category works even if you never use ours.</p>
+<h3>2. Follow-up sequences that adapt to replies</h3>
+<p>Most leads don't say no. They go quiet, and nobody calls them back a third time. Follow-up that adjusts based on how someone replied keeps working the lead while you're on a job. This is the highest-return automation in most of the businesses we've built for.</p>
+<h3>3. First drafts of routine writing</h3>
+<p>Quotes, review replies, job posts, the answer to the email you've answered a hundred times. Let AI write the first 80 percent, then make it sound like you before it goes out. The editing pass is not optional. That's where your voice lives.</p>
+<h3>4. Call and meeting notes that file themselves</h3>
+<p>Record the call, get a summary, have it logged against the right contact in your CRM. Nobody re-types anything, and six months later you can actually find what was agreed.</p>
+<h3>5. A website chat tool trained on your real information</h3>
+<p>Hours, service area, rough pricing, what to expect. A chat tool built on your actual information answers at 9pm when you won't. "Trained on your real information" is the load-bearing phrase: a generic bot that guesses will do more harm than an unanswered question.</p>
+<h3>6. Inbox and lead triage</h3>
+<p>Routing, prioritizing, flagging the hot ones. If you start every morning digging through email deciding what matters, this buys back the first hour of your day.</p>
+<h3>7. Plain-English reporting on your numbers</h3>
+<p>A monthly summary of where leads came from, what they cost, and what changed, written so you can read it in two minutes over coffee. Most owners have the data and never look at it because it lives in five dashboards.</p>
+<h2>Where is AI not worth it for a small business?</h2>
+<p>Skip AI anywhere a customer should feel a person, and anywhere the task is your actual judgment:</p>
+<ul>
+<li>Anything personal. The thank-you after a big job, the response to an angry message, the condolence. People can tell, and the cost of being caught is bigger than the minutes saved.</li>
+<li>Social media on autopilot. AI-generated posts read like AI-generated posts. If you don't have time to do social honestly, do less of it instead of faking more.</li>
+<li>Pricing, hiring, and which jobs to take. That judgment is the business.</li>
+<li>One-off tasks. The setup costs more than the task.</li>
+</ul>
+<h2>How should a small business start with AI?</h2>
+<p>Pick one leak, fix it, and measure it for thirty days. Choose the leak that costs the most or annoys you the most, either is fine. If the tool pays for itself, keep it and pick the next leak. If it doesn't, cancel it without guilt. You've lost a month, not a year.</p>
+<h2>Common questions</h2>
+<h3>How much do AI tools cost for a small business?</h3>
+<p>Most of the useful tools run somewhere between 20 and 300 dollars a month. The real cost is setup and upkeep: connecting the tool to your phone, CRM, or website, and having someone check on it. A cheap tool nobody maintains costs more than an expensive one that works.</p>
+<h3>Can AI replace an employee at a small business?</h3>
+<p>No. AI replaces tasks, not judgment. It handles the repetitive middle (answering, drafting, sorting, logging) so the people you have spend their time on the work that needs a person. Businesses that try to replace a whole role with AI usually end up redoing the work by hand.</p>
+<h3>What is the first AI tool a small business should try?</h3>
+<p>The one that plugs your biggest leak. For most service businesses that's missed-call handling or lead follow-up, because both turn money you were already earning into money you actually collect. If you're not sure where your business leaks, that's a fair place to be: tell us what's going on and we'll tell you honestly whether AI helps, or whether the fix is something simpler.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pg-case pg-article","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Is AI worth it for your small business? How to decide, plus the 7 uses that pay off\",\"description\":\"A four-question test for deciding whether an AI tool belongs in your small business, the seven uses that actually pay off, and the ones to skip.\",\"datePublished\":\"2026-06-07\",\"author\":{\"@type\":\"Organization\",\"name\":\"Alexana & Co\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Alexana & Co\"}}"}}],["$","article",null,{"className":"case-shell","children":[["$","$L2",null,{"className":"case-back","href":"/articles","children":"← All articles"}],["$","p",null,{"className":"case-eyebrow","children":"June 7, 2026"}],["$","h1",null,{"className":"case-h1","children":"Is AI worth it for your small business? How to decide, plus the 7 uses that pay off"}],["$","div",null,{"className":"case-prose","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GhUf3G4u8euz-jbAqsKZ-"}
+4:["$","section",null,{"className":"work-cta-band","aria-label":"Start a conversation","children":[["$","p",null,{"className":"work-cta-eyebrow","children":"Want help with this?"}],["$","div",null,{"className":"work-cta-shell","children":[["$","h2",null,{"children":"Tell us what you're working on."}],["$","p",null,{"children":"Tell us what's going on in your business and what you've tried. We'll tell you honestly whether we can help, what we'd build, and what it costs."}],["$","$L2",null,{"className":"bubble-btn","href":"/contact","children":["Start a conversation",["$","span",null,{"className":"arrow","aria-hidden":"true","children":"→"}]]}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
