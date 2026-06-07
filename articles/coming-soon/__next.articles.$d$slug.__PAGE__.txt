@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[97367,["/alexana-v4-preview/_next/static/chunks/0aaj7u1gmtmi5.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+3:I[97367,["/alexana-v4-preview/_next/static/chunks/2amx921dnt3a1.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4au7_1X1VESiYPhpZRORx"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Vy92jJvaGHNmPf58dx2AU"}
 5:null
 2:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
