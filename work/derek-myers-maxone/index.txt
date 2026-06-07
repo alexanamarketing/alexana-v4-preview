@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[2971,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[39756,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],""]
+7:I[97367,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/alexana-v4-preview/_next/static/chunks/22zcfmewlfh4g.css","style"]
+:HL["/alexana-v4-preview/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alexana-v4-preview/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alexana-v4-preview/_next/static/media/ab57efd000576a30-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alexana-v4-preview/_next/static/media/e4ef9ccdf14a1f35-s.p.1qrp-u74bl8uy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","work","derek-myers-maxone",""],"q":"","i":false,"f":[[["",{"children":["work",{"children":[["slug","derek-myers-maxone","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/alexana-v4-preview/_next/static/chunks/22zcfmewlfh4g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lora_b17a6ccf-module__hyfW7a__variable inter_tight_549be3b6-module__n_BO7G__variable","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"className":"f-col alex","children":[["$","p",null,{"className":"f-word","children":"Alex"}],["$","p",null,{"className":"f-kicker","children":"Builds the systems."}],["$","p",null,{"children":"Technology, automation and strategy that create a strong foundation."}]]}],["$","div",null,{"className":"f-col ana","children":[["$","p",null,{"className":"f-word","children":"ana"}],["$","p",null,{"className":"f-kicker","children":"Tells the story."}],["$","p",null,{"children":"Branding, content and marketing that brings people in."}]]}],["$","$L5",null,{"className":"cta-card","href":"/contact","children":[["$","h2",null,{"children":"Ready to build something great?"}],["$","p",null,{"children":"Tell me what's going on in your business and what you've tried. I'll tell you honestly whether I can help, what I'd build, and what it costs."}],["$","p",null,{"className":"cta-tag","children":[["$","span",null,{"className":"tw-teal","children":"Strategy."}]," ",["$","span",null,{"className":"tw-pink","children":"Systems."}]," ",["$","span",null,{"className":"tw-teal","children":"Marketing."}]," ",["$","span",null,{"className":"tw-pink","children":"Built together."}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","span",null,{"children":"A marketing and technology shop. Branson, MO."}],["$","span",null,{"children":"© 2026 Alexana & Co. Build smarter, market better."}]]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/alexana-v4-preview/_next/static/chunks/22zcfmewlfh4g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"4ntmwDATKJKIY9W7m48t-"}
+10:[]
+a:"$W10"
+11:T230d,<h2>What Derek Had and What He Was Missing</h2>
+<p>Derek Myers runs agent recruitment for MaxOne Properties, a Remax affiliate. His pitch to real estate agents is a 20-minute pre-recorded webinar called the "Agent Clarity Class" - positioned around helping agents grow without burning out. He'd put real thought into the content.</p>
+<p>What he didn't have was anything after the webinar. No automated follow-up. No way to know who attended versus who registered and disappeared. No booking mechanism that activated based on what a lead actually did. He had seven email templates drafted in ChatGPT, but they weren't wired to anything.</p>
+<p>The gap wasn't the webinar. The gap was everything that should happen after someone watches it.</p>
+<h2>Session 1: The Infrastructure, All in One Day</h2>
+<p>The first session ran three to four hours and got the foundation to roughly 70% complete.</p>
+<p>The landing page collected name, email, and phone. The form redirect used URL parameters to pre-fill EverWebinar registration so agents didn't have to enter their information twice:</p>
+<p><code>https://event.webinarjam.com/v19ww/register/5l766sn?first_name={{contact.first_name}}&#x26;last_name={{contact.last_name}}&#x26;email={{contact.email}}</code></p>
+<p>This was a deliberate call. I could have used a Zapier step to handle registration handoff, but a direct URL redirect is faster, uses zero Zapier tasks, and removes a potential failure point.</p>
+<p>One thing I discovered during this session: Derek was running EverWebinar in "Just In Time" mode, not on-demand. A registrant picks a timeslot and the webinar starts within 15 minutes of when they register. That distinction matters for how the behavioral triggers fire, which I had to factor into the Zapier setup.</p>
+<p>I built five Zapier zaps, all following the same pattern: EverWebinar fires an event, find the contact in GHL by email, update with a tag and a custom field. The tags were:</p>
+<ul>
+<li>Webinar: Registered</li>
+<li>Webinar: Attended</li>
+<li>Webinar: No Show</li>
+<li>Webinar: Watched Replay</li>
+</ul>
+<p>Each one feeds a different downstream sequence. That behavioral fork is what makes the follow-up feel relevant instead of generic.</p>
+<p>For the GHL pipeline automation, I built a single workflow with multiple triggers and IF/ELSE routing that moves contacts through stages (New Lead, Engaged, Qualified, Cold Lead) based on which tag was applied. Single workflow, all logic in one place, easier to maintain.</p>
+<p>At the end of Session 1: infrastructure done, but three things were still outstanding. Derek hadn't yet sent his Calendly link, hadn't provided an agent testimonial, and didn't have the EverWebinar replay URL. Sessions 2 and 3 would fill those gaps.</p>
+<h2>Session 2: Email Sequences in an Hour</h2>
+<p>Session 2 ran about an hour, the next day. I built the two core behavioral sequences.</p>
+<p>I started with the no-show nurture because statistically it was going to be the most common scenario. Someone registers, doesn't show up, and now needs a reason to come back. The sequence runs:</p>
+<ul>
+<li>Day 2: replay offer</li>
+<li>Day 7: testimonial/agent story (IF/ELSE exit if they've booked)</li>
+<li>Day 14: value email - three strategies</li>
+<li>Day 21: last call</li>
+</ul>
+<p>Then I duplicated that workflow and changed the trigger and first email to build the attended-but-didn't-book sequence. Saved 15-plus minutes by not rebuilding the logic from scratch.</p>
+<p>One deliberate decision: EverWebinar already sends its own confirmation and reminder emails with unique webinar links. I didn't replicate those in GHL. Sending duplicate confirmation emails would confuse registrants and undermine trust in Derek's brand. GHL sequences only activate after webinar behavior is known.</p>
+<p>Derek got his Calendly link to me during this session. It went into every email and SMS.</p>
+<p>Two issues surfaced. The Zapier no-show trigger wasn't firing during testing. Root cause: because these are JIT webinars, the no-show trigger fires 15-30 minutes after the assigned slot, not 24-48 hours later like I'd assumed. Once I understood the timing, the data was there. I just had to wait for it.</p>
+<p>The other issue was email authentication. Derek runs Microsoft 365. The original plan was Mailgun, which would have required DNS changes on his domain during an active project. I flagged this as an unnecessary disruption and identified AppRiver SMTP as an alternative.</p>
+<p>I also made the call to skip Sequences 3 and 4, the post-meeting flows. Derek didn't have any agent meetings booked yet. Building speculative post-meeting content before there's any meeting data to inform it is a waste of time. Those get built when the first meetings happen.</p>
+<h2>Session 3: Email Auth and the Long Game</h2>
+<p>Session 3 ran about two hours, six days later.</p>
+<p>I configured AppRiver SMTP directly in GHL under Settings > Email Services. DKIM authentication verified against maxoneproperties.com. All replies route back into GHL Conversations so Derek has one place to track everything. The DNS change avoided, no IT ticket needed.</p>
+<p>Then I built the long-term nurture sequence from scratch. Derek's original seven emails didn't cover this territory at all. This is the sequence for leads who weren't ready at week one, aren't ready at week three, and might be ready in three months. Nine emails spread across 105 days, from Day 35 to Day 140:</p>
+<ul>
+<li>Day 35: soft re-engagement</li>
+<li>Day 42: agent success story</li>
+<li>Day 56: three things top-producing agents do differently</li>
+<li>Day 70: local market insight (placeholder for Derek's data)</li>
+<li>Day 84: personal check-in</li>
+<li>Day 98: free resource (flagged as optional, pending Derek's lead magnet decision)</li>
+<li>Day 112: before/after transformation story (placeholder for Derek's agent story)</li>
+<li>Day 126: industry trend</li>
+<li>Day 140: objection handling - "What if I'm happy where I am?"</li>
+</ul>
+<p>After Day 140, the sequence loops back to the Day 42 email for the first six months, then switches to quarterly check-ins. The goal is to stay in Derek's leads' periphery without wearing out the welcome.</p>
+<p>Every email in every sequence uses the same logic: IF/ELSE check before sending, not just at the start. If a lead books at any point, the next email in the queue never fires. This is more resilient than relying solely on a Goal Event exit, because Goal Events can miss contacts who entered the workflow before the tag was applied.</p>
+<p>Derek still hadn't provided a real agent testimonial. I wrote four draft options covering different pain points: burnout, systems, chaos, and production versus peace of mind. Placeholders stayed in the workflows pending his approval.</p>
+<h2>What Got Handed Off</h2>
+<p>By project completion on December 5:</p>
+<ul>
+<li>Landing page with EverWebinar pre-fill redirect</li>
+<li>5 Zapier zaps tracking all webinar behavior into GHL</li>
+<li>8 behavioral tags (5 webinar, 3 meeting status)</li>
+<li>2 custom fields</li>
+<li>1 pipeline routing workflow</li>
+<li>2 active follow-up sequences (attended/no-show) with email + SMS</li>
+<li>1 long-term nurture sequence (9 emails, 140 days)</li>
+<li>AppRiver SMTP configured and authenticated</li>
+<li>Loom walkthrough videos for client training</li>
+<li>Complete written documentation for every piece</li>
+</ul>
+<p>Total build time: about six to seven hours across three sessions over eight days.</p>
+<h2>What Was Left Open</h2>
+<p>Being honest about what wasn't done:</p>
+<p>Sequences 3 and 4 (post-meeting flows) weren't built. That was intentional. A2P 10DLC registration was pending carrier approval, which is outside anyone's control. EverWebinar DKIM records still needed to be added to the DNS by Derek's IT team. Three pieces of content - an agent transformation story, local market data, and the lead magnet decision - were outstanding from Derek's side.</p>
+<p>The system was fully functional at handoff. The open items were either carrier-dependent (10DLC), IT-dependent (EverWebinar DKIM), or content Derek needed to supply himself.</p>
+<h2>The Thing Worth Noting</h2>
+<p>This project was essentially an integration problem with a follow-up problem stacked on top. The webinar platform, the CRM, the email provider, and the meeting tool all needed to talk to each other without creating confusion for the leads moving through the funnel.</p>
+<p>The architectural decisions that mattered most: skip Zapier for the registration redirect (simpler and faster), skip duplicate EverWebinar emails from GHL (one source of confirmation), pick AppRiver over Mailgun (fewer DNS changes, same deliverability outcome), and build the long-term sequence from scratch instead of padding Derek's ChatGPT templates into something they weren't.</p>
+<p>None of those decisions are dramatic. But each one is the kind of thing that breaks systems quietly when it goes the wrong way.</p>
+6:["$","div",null,{"className":"pg-case","children":[["$","article",null,{"className":"case-shell","children":[["$","$L5",null,{"className":"case-back","href":"/work","children":"← All work"}],["$","p",null,{"className":"case-eyebrow","children":["Derek Myers / MaxOne Properties"," · ","Real Estate"]}],["$","h1",null,{"className":"case-h1","children":"Built the landing page, connected it to EverWebinar, and routed everything back into GHL with automated follow-up and appointment booking based on interest level"}],["$","p",null,{"className":"case-services","children":"Landing Page Design, Webinar Integration, CRM Automation, Email Sequences, SMTP Configuration"}],["$","div",null,{"className":"case-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12"]}]
+12:["$","section",null,{"className":"work-cta-band","aria-label":"Start a conversation","children":[["$","p",null,{"className":"work-cta-eyebrow","children":"Building something similar?"}],["$","div",null,{"className":"work-cta-shell","children":[["$","h2",null,{"children":"Tell me what you need."}],["$","p",null,{"children":"Tell me what's going on in your business and what you've tried. I'll tell you honestly whether I can help, what I'd build, and what it costs."}],["$","$L5",null,{"className":"bubble-btn","href":"/contact","children":["Start a conversation",["$","span",null,{"className":"arrow","aria-hidden":"true","children":"→"}]]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:I[27201,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"Derek Myers / MaxOne Properties | Alexana & Co"}],["$","meta","1",{"name":"description","content":"Landing Page, Webinar Integration, and Automated Follow-Up System for a Real Estate Recruiter. Services: Landing Page Design, Webinar Integration, CRM Automation, Email Sequences, SMTP Configuration."}],["$","link","2",{"rel":"icon","href":"/favicon.svg"}],["$","$L13","3",{}]]

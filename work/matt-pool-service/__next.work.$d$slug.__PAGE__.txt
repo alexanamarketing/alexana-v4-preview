@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22016,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/alexana-v4-preview/_next/static/chunks/3bjlp--whpuj7.js","/alexana-v4-preview/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T2735,<h2>What I walked into</h2>
+<p>All About Pools &#x26; Spas is a one-person pool and hot tub repair company in southwest Missouri: Branson, Kimberling City, Springfield, the lake towns along Highway 13. Matt founded the business in 2024. By the time I came on in November 2025, he had been running Google Ads for several months with no one managing the account.</p>
+<p>The account was technically "running." That was about the kindest thing you could say about it.</p>
+<p>Two campaigns were splitting a budget too small for either one: a $10/day Performance Max and a $9/day Search campaign. Neither had conversion tracking. There were no negative keywords. Location targeting wasn't configured to Missouri. The ads were serving nationwide. The campaign had a "Bid setting limited" error that had been sitting there unaddressed. No sitelinks, no callouts, no images. The only ad asset configured was a basic call extension.</p>
+<p>By the December audit, the account had generated 177 interactions and 4 raw leads. But "raw leads" is generous. There was no form, no call tracking, and GA4 wasn't linked to Google Ads. The business had spent months running ads with no way to know if a single one had ever converted.</p>
+<h2>The SEO work came first</h2>
+<p>The initial scope was local SEO landing pages plus Google Ads management. I started with the pages.</p>
+<p>The first draft took one day. I wrote four city-specific landing pages (1,300-1,450 words each) based on demographic research for Kimberling City, Hollister, Branson West, and Nixa. Each page had a different angle: Kimberling City leaned into vacation home monitoring (median age 60.9, lots of second homes); Hollister led with family safety; Nixa, with a median household income of $80,491, got the HOA compliance and technology integration angle.</p>
+<p>Then I scrapped all four pages.</p>
+<p>The problem: I had written them without looking at the actual website. When I read through Matt's site properly, the voice, structure, and differentiators were different enough that the pages I'd written wouldn't match. His biggest credential, a CPO (Certified Pool Operator) certification mentioned four times on his homepage, was absent from everything I'd written. Starting from the real homepage structure was the right call, even if it added a day.</p>
+<p>I extracted the full site content from screenshots Matt sent, mapped every section word-for-word, and rebuilt from that foundation. The second round covered geographic pairs instead of single cities (Branson/Hollister, Springfield/Republic, Kimberling City/Indian Point, Branson West/Reeds Spring), with 30+ specific local landmarks and subdivision names woven into each page. All four pages went live in Wix within a few days of delivery.</p>
+<h2>The Google Ads work took longer to get right</h2>
+<p>I pulled 18 screenshots of the existing campaigns in November and ran keyword testing directly in the live account. City-specific keywords like "pool pump repair Branson" returned "Low search volume" on almost everything I tried. This is a small market. The population of Branson West is 505.</p>
+<p>That killed the obvious strategy: tight city-specific keyword lists. What I built instead was 15 location-agnostic problem-based keywords: "hot tub not heating," "hot tub pump not working," "pool leak repair near me," with location radius targeting handling the geographic specificity. The intent signals are in the search query; the geography is handled separately. That's the V4 strategy, and it held through the rest of the engagement.</p>
+<p>One signal that came out of early keyword testing: hot tub queries were outperforming pool queries by a meaningful margin (8.51% CTR vs. 5-7%), and hot tub service is year-round in a way pool service isn't. I recommended pausing Performance Max and consolidating to a single Search campaign focused on hot tub repair at $17/day. Splitting a small budget between two campaigns wasn't serving either one.</p>
+<h2>The March audit</h2>
+<p>The serious account work happened in March. I ran a full 18-section audit and came back with 12 verified recommendations: 4 critical, 3 high, 3 medium, 2 low.</p>
+<p>The headline findings: 0 conversions on $501 in total spend; 29.8% wasted spend ($149/month) on irrelevant queries like shopping results, competitor brand names, and DIY searches; 94% of the budget funneling through a single broad-match keyword ("hot tub repair"); and 93.5% of spend going to Springfield despite Branson being the primary service area.</p>
+<p>I implemented 6 changes the same session:</p>
+<ul>
+<li>38 negative keywords added (50 total), covering shopping, brand, DIY, employment, and unrelated categories</li>
+<li>Bid strategy switched from Maximize Conversions to Manual CPC ($12 max, enhanced CPC). You can't optimize toward conversions when conversion tracking doesn't work</li>
+<li>Geographic bids restructured: Springfield city -70%, Branson +25%</li>
+<li>Age bid adjustments: 35-44 -25%, 55-64 +15%, 65+ +10%, based on typical pool service customer profile</li>
+<li>4 broader pool repair keywords added to the account</li>
+<li>An outdated Independence Day promotion (from July 2025) removed from the live ad</li>
+</ul>
+<p>The optimization score moved from 56.1% to 69.5% after those changes.</p>
+<p>Eleven days later I ran a check. CTR had doubled: 2.47% to 5.21%. CPC had dropped 32%: $13.55 to $9.22. Every dollar spent was generating 47% more clicks. All 17 structural changes I made had held in the account.</p>
+<p>The conversion count remained at zero.</p>
+<h2>The conversion tracking problem</h2>
+<p>This is the part of the project I have to be honest about.</p>
+<p>Conversion tracking was the central problem throughout this engagement, and I diagnosed it three separate times across six months without fully resolving it.</p>
+<p>In December, I recognized it was broken and started the setup process. In March, I concluded the Google Ads tag wasn't installed on the Wix site at all. Three days later, a deeper look showed the tag was actually installed and firing correctly. Google confirmed "Excellent" tag quality with four connected IDs. The problem wasn't the tag; it was that no conversion actions had been created. We were tracking tag fires without telling Google Ads what counted as a conversion.</p>
+<p>I created two conversion actions in March: a form submission tracker and a click-to-call tracker. The form submission showed "Misconfigured." The call tracker showed "Needs attention." A diagnostic in late March found the root cause for the calls: $12/day was exhausting after about 1.2 clicks, and all 5 forwarding number calls in the account were under 20 seconds, below Google's default conversion threshold. I changed the call action to "Call clicks from ads" to remove the duration requirement.</p>
+<p>By May, the v4 audit showed zero conversion actions configured in the account. Same problem, same diagnosis, still unresolved.</p>
+<p>The honest read: conversion tracking required Wix access and changes Matt needed to make on his end. He stopped responding in late March. By May he'd been unreachable for seven weeks. Some of the remaining fixes were straightforward; they just needed someone to log in and click through.</p>
+<p>The result: the account spent $373 in the 30 days before the April audit and recorded 0 conversions. There were 21 call interactions in that window. Some of those were probably real leads. I can't tell you how many.</p>
+<h2>The B2B pivot</h2>
+<p>In April, the scope expanded into B2B outreach. The insight was simple: hotels, resorts, and vacation rental companies with pools are a different buyer than a homeowner. They don't search "pool repair near me." They need a vendor they can call when something breaks. Cold email reaches them where ads don't.</p>
+<p>I built two outreach templates (nightly rentals and hotels/resorts), ran them through a full copy audit, and built a lead list from Apollo combined with manual research. Apollo was thin. Independent regional hotels don't have much LinkedIn presence. Manual research added enough coverage to work with: 21 nightly rental companies with 16 emails, 65 hotels with 8 named contacts, and 20 resorts in Taney and Stone County.</p>
+<p>81 emails went out across the three segments. No response data came back during the engagement.</p>
+<h2>What actually moved</h2>
+<p>The verified improvements from this project:</p>
+<ul>
+<li>CTR: 2.47% to 5.21% (11 days post-audit)</li>
+<li>CPC: $13.55 to $9.22 (down 32%)</li>
+<li>Clicks per $100 spent: 7.38 to 10.84 (up 47%)</li>
+<li>Negative keywords: 0 to 83</li>
+<li>Wasted spend identified and blocked: 29-42% of monthly budget</li>
+<li>4 city SEO pages written and live in Wix</li>
+<li>81 B2B outreach emails sent</li>
+<li>Optimization score: 56.1% to 69.5%</li>
+</ul>
+<p>What I can't claim: verified leads from ads, cost-per-conversion, or revenue impact. The tracking problem was real, and no amount of CTR improvement changes the fact that the business was still flying blind on ROI at the end of the engagement.</p>
+<h2>What this project is actually about</h2>
+<p>The tracking gap is frustrating, but it's the honest version of this case study. A lot of Google Ads work looks clean in the reporting because the reporting doesn't show you what was never tracked. This account had measurement problems layered on top of each other, some my diagnostic process uncovered, some that required client-side access I never got.</p>
+<p>The structural work was real. The account was in materially better shape after the March audit: tighter geographic targeting, meaningful negative keyword coverage, bids adjusted to match what the data actually said about age segments and location, and a keyword strategy built for a small-market audience rather than a generic one.</p>
+<p>What I'd do differently: push harder on conversion tracking as a prerequisite before running ads at all. It's a harder conversation at the start of an engagement. It would have saved Matt months of spend with no measurement.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pg-case","children":[["$","article",null,{"className":"case-shell","children":[["$","$L2",null,{"className":"case-back","href":"/work","children":"← All work"}],["$","p",null,{"className":"case-eyebrow","children":["All About Pools & Spas"," · ","Home Services"]}],["$","h1",null,{"className":"case-h1","children":"177 ad interactions. Zero tracked conversions. Here's what I found."}],["$","p",null,{"className":"case-services","children":"Google Ads, Local SEO, B2B Cold Email"}],["$","div",null,{"className":"case-prose","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4ntmwDATKJKIY9W7m48t-"}
+4:["$","section",null,{"className":"work-cta-band","aria-label":"Start a conversation","children":[["$","p",null,{"className":"work-cta-eyebrow","children":"Building something similar?"}],["$","div",null,{"className":"work-cta-shell","children":[["$","h2",null,{"children":"Tell me what you need."}],["$","p",null,{"children":"Tell me what's going on in your business and what you've tried. I'll tell you honestly whether I can help, what I'd build, and what it costs."}],["$","$L2",null,{"className":"bubble-btn","href":"/contact","children":["Start a conversation",["$","span",null,{"className":"arrow","aria-hidden":"true","children":"→"}]]}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
