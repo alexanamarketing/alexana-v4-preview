@@ -1,6 +1,6 @@
-:HL["/alexana-v4-preview/_next/static/chunks/2zvjoz3dimzu4.css","style"]
+:HL["/alexana-v4-preview/_next/static/chunks/3q38tqb5l9l6a.css","style"]
 :HL["/alexana-v4-preview/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/alexana-v4-preview/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/alexana-v4-preview/_next/static/media/ab57efd000576a30-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/alexana-v4-preview/_next/static/media/e4ef9ccdf14a1f35-s.p.1qrp-u74bl8uy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"training-day-program","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4xp9XRVWjxye9cI8f9Ju_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"training-day-program","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4au7_1X1VESiYPhpZRORx"}
